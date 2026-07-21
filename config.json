@@ -1,7 +1,17 @@
 {
-"version:": 0.0.1,
+"version_map": "Full Version.Subversion.bugfix.warlist",
+"version:": 0.01.0.0,
 
 "change_log": {
-  "0.0.1": "The start"
+  "0.01.0.0": "The start"
+  },
+
+  "warlist": {
+    "id": {
+      "name": null,
+      "suggested": "suggested thing to sab",
+      "cooldown": "time to end cooldown"
+      
+    }
   }
 }
